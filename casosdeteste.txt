@@ -1,22 +1,16 @@
 Organizar projeto:
 - Criar testes base - OK
-- Criar teste que insira resultado em uma planilha - Pendente
 - Criar relatório Mochawesome -OK
 
 
 
 
-Teste A
+Teste 
 - Inclusão de produto no carrinho - Pendente
         - Este teste foi realizado para identificar o "Caminho feliz" de um processo de inclusão de um produto no carrinho.
 
 
-Teste B
-- Inclusão de produtos no carrinho, inserindo resultados em uma planilha
-                - Nome dos produtos
-                - Valor total
-                - Valor de cada produto
-                - Valor do frete
+
 
 
 
